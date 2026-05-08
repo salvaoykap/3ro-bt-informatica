@@ -1,0 +1,1 @@
+Un repositorio en GitHub (o "repo") es, esencialmente, el espacio de almacenamiento digital centralizado donde reside un proyecto de software. Funciona como una carpeta o directorio de proyecto en la nube que alberga todos los archivos, documentos y el historial completo de cambios (versiones) de esos archivos a lo largo del tiempo.
