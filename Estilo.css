@@ -1,0 +1,28 @@
+h1{
+    font-style: italic;
+    color: #ff0000;
+}
+p{
+    font-weight: 900;
+}
+.imagen img{
+    gap: 100px;
+    border-radius: 15%;
+    width: 200px;
+    height: 400px;
+
+}
+.album{
+
+    display: flex;
+    justify-content: center;
+}
+h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    color: #d85002;
+}
+footer{
+    color: #4e0202;
+    font-weight: 900;
+    font-family: 'Courier New', Courier, monospace;
+}
